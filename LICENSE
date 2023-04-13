@@ -3,3 +3,5 @@ either express or implied, including the warranties of merchantability and fitne
 
 For licensing terms and conditions of DevExpress product(s) required for, or associated with the use of this code example, 
 please refer to the applicable End-User License Agreement at https://www.devexpress.com/Support/licensingfaq.xml
+
+Most work done here is credited to @Boris Zaitsev, @Dmitry Golikov and @Vasily. Extra work done by me was to tweak the code and make it compatible with .NET6.0 and DevExtreme 2023 components. Have fun!
